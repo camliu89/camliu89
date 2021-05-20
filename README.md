@@ -1,7 +1,7 @@
 # Alexander (Alex) Cam Liu 👋
 
 ## Who am I?
-- 💼 **Current: Frontend Developer for Rice Unversity** | Past: Fullstack Developer for Purdue University
+- 💼 **Current: Senior Full-Stack Developer for Christian Care Ministry** | Past: Frontend Developer for Rice Unversity
 - 🏫 Nucamp Bootcamp Instructor
 - 📚 Codementor - [![Contact me on Codementor](https://www.codementor.io/m-badges/camliu89/im-a-cm-b.svg)](https://www.codementor.io/@camliu89?refer=badge)
 
